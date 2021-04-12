@@ -1,2 +1,4 @@
 # applicationcontentprovaderclient
-exemplo do Content Provader
+## atividade content provader 
+
+. Abordando conseitos do content provader!
